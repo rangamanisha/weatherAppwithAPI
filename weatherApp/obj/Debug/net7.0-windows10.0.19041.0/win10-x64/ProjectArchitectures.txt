@@ -1,0 +1,1 @@
+C:\Users\manis\source\repos\weatherApp\weatherApp\weatherApp.csproj;x64
